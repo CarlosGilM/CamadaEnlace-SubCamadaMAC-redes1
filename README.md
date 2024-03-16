@@ -3,7 +3,8 @@
 
 # Sobre
 O trabalho envolve uma simulação da Camada Enlace de Dados do Modelo OSI. <br/>
-#### NOTA DO TRABALHO (100 / 100)
+#### NOTA DO TRABALHO (70 / 100) <br/>
+A nota deste trabalho provavelmente foi reduzida devido à não implementação de todos os métodos utilizados anteriormente; no entanto, os métodos específicos empregados neste projeto estão operando corretamente.
 
  # Execução
  ### Algumas Informações IMPORTANTES da execução são exibidas no terminal.
