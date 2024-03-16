@@ -8,7 +8,7 @@ O trabalho envolve uma simulação da Camada Enlace de Dados do Modelo OSI. <br/
  # Execução
  ### Algumas Informações IMPORTANTES da execução são exibidas no terminal.
  
-<img src="assets/execucaoMAC.gif">
+<img src="assets/execucaoMac.gif">
 Execução parcial do programa.
 
 # Autores
